@@ -1,5 +1,5 @@
 # Pizzagate
-(write description here)
+Working through programming using Rust
 
 ### Initial code exercises
 - [ ] Fill out the repo description, then
@@ -20,4 +20,3 @@
 1. Embedded programming (programs that run on small devices)
 1. Document process automation
 1. (Add more here)
-
